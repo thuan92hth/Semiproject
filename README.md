@@ -1,4 +1,2 @@
 ﻿# Semiproject
-ád
-ád
-symfony
+sdfasdf 
